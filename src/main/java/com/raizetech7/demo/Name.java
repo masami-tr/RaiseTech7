@@ -8,9 +8,7 @@ public class Name {
     private String firstName;
 
 
-
-
-    public Name(int id,String givenName, String firstName) {
+    public Name(int id, String givenName, String firstName) {
         this.id = id;
         this.givenName = givenName;
         this.firstName = firstName;
